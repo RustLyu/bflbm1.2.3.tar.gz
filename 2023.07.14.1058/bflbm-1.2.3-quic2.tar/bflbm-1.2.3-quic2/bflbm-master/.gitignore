@@ -1,0 +1,13 @@
+.modules.order.cmd
+.tmp_versions
+modules.order
+.module*
+.Module*
+.bflbm*
+Module.*
+compile_flags.txt
+*.mod
+*.mod.c
+*.o
+*.ko
+
